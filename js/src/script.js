@@ -5,7 +5,7 @@
 	function init() {
 		
 		new App();
-		console.log('s');
+		console.log('sander aangepast');
 	}
 
 	init();
